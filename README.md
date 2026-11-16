@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Ezequiel Luque
 
-<!--
-**Ezeluque1/Ezeluque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer Jr. de Villa del Rosario, Córdoba, Argentina.
+Técnico en Desarrollo de Software (egreso en noviembre de 2026), enfocado en
+Node.js, TypeScript y PostgreSQL. Busco mi primer rol en un equipo remoto.
 
-Here are some ideas to get you started:
+## Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[RotiOS](https://github.com/Ezeluque1/RotiOS)**: SaaS multitenant para rotiserías
+  (menú, pedidos y caja) con aislamiento de datos entre locales, API REST con JWT
+  y 4 roles, y 96 tests de integración.
+- **[Folderly](https://github.com/Ezeluque1/Folderly)**: aplicación de escritorio en
+  Python que ordena la carpeta Descargas y permite deshacer; el `.exe` se publica
+  con GitHub Actions.
+
+## Tecnologías
+
+Node.js · TypeScript · Express · PostgreSQL · Prisma · Python · Docker · Git ·
+Postman · Swagger · GitHub Actions
+
+## Contacto
+
+ezequiel.luque.vdr1@gmail.com
